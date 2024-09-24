@@ -7,4 +7,4 @@ Audio processor with individual FFT bin amplitude and phase controls.
 Launch the patch titled with (Main Patch).
 
 Extra package requirements:
--HISSTools Impulse Response Toolbox (HIRT)
+- HISSTools Impulse Response Toolbox (HIRT)
